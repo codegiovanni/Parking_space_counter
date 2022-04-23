@@ -1,5 +1,6 @@
 # Parking space counter created using OpenCV and Python
 
+![parking_space_counter](https://user-images.githubusercontent.com/72137556/164909493-ad13efb6-6997-41de-bc1c-168c11b2532b.png)
 
 Video used in the code:
 Tom Berrigan
